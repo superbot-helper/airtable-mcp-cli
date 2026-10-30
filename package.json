@@ -24,7 +24,7 @@
     "url": "https://github.com/Airtable/airtable-mcp-cli.git"
   },
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.12.1",
+    "@modelcontextprotocol/sdk": "^1.32.2",
     "clipanion": "^4.0.0-rc.4"
   },
   "devDependencies": {
